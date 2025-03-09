@@ -122,20 +122,67 @@ span {
     margin-top: 1.5rem;
     
 }
-
-.home-img img {
-    width: 22vw;
+.image-wrapper {
     position: relative;
-    top: 3.5rem;
-    box-shadow: 0 0 25px var(--main-color);
-    cursor: pointer;
-    transition: 0.8s ease-in-out;
+    display: inline-block;
 }
 
+/* Imagen principal */
+.home-img img {
+    width: 300px;
+    border-radius: 20px;
+    position: relative;
+    z-index: 3; /* Imagen al frente */
+    box-shadow: 0 0 20px var(--main-color);
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
+
+/* Formas detrás de la imagen */
+.shape-1, .shape-2{
+    position: absolute;
+    border-radius: 20px;
+    animation: rotateShapes 5s infinite alternate ease-in-out;
+}
+
+/* Rectángulo con borde blanco */
+.shape-1 {
+    top: -10px;
+    left: -10px;
+    width: 300px;
+    height: 300px;
+    background: transparent;
+    border: 4px solid white;
+    z-index: 2; /* Se mantiene visible detrás de la imagen */
+    transform: rotate(-15deg);
+}
+
+/* Rectángulo con fondo de color */
+.shape-2 {
+    top: 10px;
+    left: 10px;
+    width: 300px;
+    height: 300px;
+    background: #6f42c1;
+    opacity: 0.4;
+    z-index: 1; /* Más atrás */
+    transform: rotate(10deg);
+}
+
+
+/* Animación de rotación */
+@keyframes rotateShapes {
+    0% { transform: rotate(-10deg); }
+    50% { transform: rotate(20deg); }
+    100% { transform: rotate(-10deg); }
+}
+
+
+
 .home-img img:hover {
-    box-shadow: 0 0 20px var(--main-color),
-                0 0 30px var(--main-color),
-                0 0 80px var(--main-color);
+    box-shadow: 0 0 10px var(--main-color),
+                0 0 20px var(--main-color),
+                0 0 25px var(--main-color);
 }
 
 .home-content p {
