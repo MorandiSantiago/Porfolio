@@ -29,28 +29,6 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
-
-//document.addEventListener("DOMContentLoaded", function() {
-//    const projects = [
-//        { id: 1, title: "Efecto de Hover en un Botón", description: "Este ejemplo muestra un botón que cambia de color al pasar el ratón por encima." },
-//        { id: 2, title: "Modal Interactivo", description: "Este ejemplo muestra cómo hacer un modal emergente utilizando solo HTML, CSS, y JavaScript." },
-//       { id: 3, title: "Animación CSS a pantalla completa", description: "Este ejemplo muestra una animación en CSS donde un cuadro se desplaza de izquierda a derecha a través de toda la página." },
-//        // Puedes agregar más proyectos aquí
-//    ];
-//    const accordionContainer = document.getElementById('accordion-container');
-//
-//    projects.forEach(project => {
-//        const accordionItem = `
-//            <div class="accordion-item">
-//                <div class="accordion-header" data-example="example${project.id}">${project.title}</div>
-//                <div class="accordion-content">
-//                    <p>${project.description}</p>
-//                </div>
-//            </div>
-//        `;
-//        accordionContainer.innerHTML += accordionItem;
-//    });
-//}); 
 var ejemplos = {
     example1: {
         html: `<html>
