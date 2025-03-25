@@ -1,6 +1,6 @@
 /* Estilos Generales */
 * {
-    font-family: "Poppins", sans-serif;
+    font-family: 'Nunito', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -250,19 +250,19 @@ span {
 
 @keyframes words {
     0%, 20% {
-        content: "Frontend Developer";
+        content: "Desarrollo Front-End";
     }
     21%, 40% {
-        content: "Web Designer";
+        content: "Análisis de Datos";
     }
     41%, 60% {
-        content: "Data Analyst";
+        content: "Automatizaciones";
     }
     61%, 80% {
-        content: "Backend Developer";
+        content: "Desarrollo Full-Stack";
     }
     81%, 100% {
-        content: "Web Developer";
+        content: "Flujos de Trabajo";
     }
 }
 
@@ -399,12 +399,8 @@ span {
     background-color: var(--bg-color);
 }
 
-
-
-
-
 body {
-    font-family: Arial, sans-serif;
+    
     margin: 0;
     padding: 20px;
     display: flex;
@@ -439,7 +435,7 @@ iframe {
 }
 .grid2 {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 20px;
     margin-top: 20px;
     

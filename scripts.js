@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
         let scrollPercentage = (scrollTop / (documentHeight - windowHeight)) * 155;
 
         let timelineHeight = scrollPercentage;
-        timelineHeight -= 22;
+        timelineHeight -= 24;
         timelineLine.style.height = `${timelineHeight}%`;
      
 
@@ -4445,5 +4445,3 @@ function cargarEjemplo(ejemplo) {
 
 // Cargar el primer ejemplo por defecto
 cargarEjemplo(ejemplos.example1);
-
-
