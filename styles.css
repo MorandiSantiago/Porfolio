@@ -275,6 +275,7 @@ span {
     }
 }
 
+
 /* Sección Educación */
 .heading {
     font-size: 8rem;
@@ -288,7 +289,7 @@ span {
 }
 
 .education h2 {
-    margin-bottom: 5rem;
+    margin-bottom: 10rem;
 }
 
 /* Estilos para la línea de tiempo */
@@ -402,7 +403,7 @@ span {
 body {
     
     margin: 0;
-    padding: 20px;
+    padding: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -416,11 +417,10 @@ body {
 .accordion-item:hover {
     background-color: #4eb8d8b8;
     transform: scale(1.02);
-    transition: transform 0.5s ease, background-color 0.5s ease;
+    transition: transform 0.8s ease, background-color 0.8s ease;
 }
 
 .accordion-header {
-    background-color: #01818f;
     cursor: pointer;
     padding: 8px;
     font-size: 20px;
@@ -449,4 +449,101 @@ iframe {
 
 h2 {
     text-align: center;
+}
+
+
+/* Skillset Section */
+.skillset {
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: -50px;
+}
+
+/* Add a glowing effect */
+.skillset::before {
+    content: '';
+    position: absolute;
+    top: -50px;
+    left: -50px;
+    width: 150px;
+    height: 150px;
+    background: linear-gradient(135deg, rgba(75, 228, 255, 0.1), rgba(0, 0, 0, 0.1));
+    border-radius: 50%;
+    animation: floating-glow 6s infinite linear;
+}
+
+@keyframes floating-glow {
+    0% { transform: translate(0, 0); }
+    50% { transform: translate(1530px, 330px); }
+    100% { transform: translate(0, 0); }
+}
+
+/* Heading Styling */
+.skillset h3 {
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background: white;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Skills List */
+.skills-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 60px;
+    
+}
+
+/* Skill Items */
+.skills-list li {
+    font-size: 30px;
+    padding: 15px 25px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    cursor: pointer;
+    margin-top: 80px;
+}
+
+/* Hover Effects */
+.skills-list li:hover {
+    transform: scale(1.1);
+}
+
+/* Icons Styling */
+.skills-list i {
+    font-size: 24px;
+    transition: color 0.3s ease;
+    color: #64ffda;
+
+}
+
+/* Glow effect on hover */
+.skills-list li:hover i {
+    color: #fad0c4;
+}
+
+/* Floating Animation for Each Skill */
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.skills-list li {
+    animation: fadeInUp 0.8s ease-in-out;
 }

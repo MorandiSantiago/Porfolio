@@ -49,7 +49,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-md-6 column-xs-12 hide-sm hide-md box-tab">
         <div class="effect effect-one">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -58,7 +58,7 @@ var ejemplos = {
       </div>
       <div class="column-8 column-md-6 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width8 effect-one">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="pt-1">grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -67,7 +67,7 @@ var ejemplos = {
       </div>
       <div class="column-6 column-md-6 hide-xs hide-sm box-tab">
         <div class="effect grid-width6 effect-one">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="pt-2">column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -76,7 +76,7 @@ var ejemplos = {
       </div>
       <div class="column-3 column-md-6 column-sm-6 hide-xs box-tab">
         <div class="effect grid-width3 effect-one">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="pt-3">column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -85,7 +85,7 @@ var ejemplos = {
       </div>
       <div class="column-3 column-sm-6 hide-xs hide-md box-tab">
         <div class="effect grid-width3 effect-one">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="pt-3">column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -107,7 +107,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-md-6 column-xs-12 column-sm-6 box-tab">
         <div class="effect effect-two">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Column 4</h2>
              <p class="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -125,7 +125,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-md column-xs-12 hide-xs hide-sm box-tab">
         <div class="effect grid-width8 effect-two">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Column Eight</h2>
              <p class="description col6">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -134,7 +134,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-md hide-xs hide-sm box-tab">
         <div class="effect grid-width6 effect-two">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Column six</h2>
              <p class="description col6">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -143,7 +143,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-md hide-xs hide-sm box-tab">
         <div class="effect grid-width3 effect-two">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text col3">
             <h2 class="col3-head">Column three</h2>
              <p class="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -152,7 +152,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-md hide-sm box-tab">
         <div class="effect grid-width3 effect-two">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text col3">
             <h2 class="col3-head">Column three</h2>
              <p class="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -174,7 +174,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-md-6 column-xs-12 column-sm-6 box-tab">
         <div class="effect effect-three col3-block-height">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Artistic</h2>
           </div>
@@ -182,7 +182,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-md-6 column-sm-6 hide-xs box-tab">
         <div class="effect effect-three col3-block-height">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Realistic</h2>
           </div>
@@ -190,7 +190,7 @@ var ejemplos = {
       </div>
       <div class="column-4 hide-xs hide-sm hide-md box-tab">
         <div class="effect effect-three col3-block-height">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Difficult</h2>
           </div>
@@ -211,7 +211,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-md-6 column-xs-12 column-sm-6 box-tab">
         <div class="effect effect-four">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -220,7 +220,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-md-6 column-xs-12 column-sm-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-four">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -229,7 +229,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-sm hide-md hide-xs box-tab">
         <div class="effect grid-width8 effect-four">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -238,7 +238,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs hide-md hide-sm box-tab">
         <div class="effect grid-width6 effect-four">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -247,7 +247,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-md hide-sm box-tab">
         <div class="effect grid-width3 effect-four">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
@@ -256,7 +256,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-md hide-sm box-tab">
         <div class="effect grid-width3 effect-four">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -278,7 +278,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab">
         <div class="effect effect-five col3-block-height">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>customised</h2>
           </div>
@@ -286,7 +286,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-sm-6 column-md-6 hide-xs box-tab">
         <div class="effect effect-five col3-block-height">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>amazing</h2>
           </div>
@@ -294,7 +294,7 @@ var ejemplos = {
       </div>
       <div class="column-4 hide-xs box-tab hide-sm hide-md">
         <div class="effect effect-five col3-block-height">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>portfolio</h2>
           </div>
@@ -315,7 +315,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab">
         <div class="effect effect-six">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -324,7 +324,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-six">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -333,7 +333,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width8 effect-six">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -342,7 +342,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width6 effect-six">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -351,7 +351,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width3 effect-six">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -360,7 +360,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width3 effect-six">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -382,7 +382,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab">
         <div class="effect effect-seven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>pLorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -391,7 +391,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-seven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -400,7 +400,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-xs box-tab hide-sm hide-md">
         <div class="effect grid-width8 effect-seven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="col8-head">grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -409,7 +409,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs box-tab hide-sm hide-md">
         <div class="effect grid-width6 effect-seven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -418,7 +418,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs box-tab hide-sm hide-md">
         <div class="effect grid-width3 effect-seven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -427,7 +427,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs box-tab hide-sm hide-md">
         <div class="effect grid-width3 effect-seven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -449,7 +449,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-sm-6 column-xs-12 column-md-6 box-tab">
         <div class="effect effect-eight">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -458,7 +458,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-sm-6 column-xs-12 column-md-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-eight">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -467,7 +467,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-xs box-tab hide-sm hide-md">
         <div class="effect grid-width8 effect-eight">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="col8-head">grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
@@ -476,7 +476,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width6 effect-eight">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -485,7 +485,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width3 effect-eight">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -494,7 +494,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm box-tab hide-md">
         <div class="effect grid-width3 effect-eight">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -516,7 +516,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-sm-6 column-md-6 column-xs-12 box-tab">
         <div class="effect effect-nine">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -525,7 +525,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-sm-6 column-xs-12 column-md-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-nine">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -534,7 +534,7 @@ var ejemplos = {
       </div>
       <div class="column-4 hide-xs hide-sm box-tab hide-md">
         <div class="effect effect-nine">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -543,7 +543,7 @@ var ejemplos = {
       </div>
       <div class="column-4 hide-xs hide-sm box-tab hide-md">
         <div class="effect effect-nine">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -552,7 +552,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs hide-sm box-tab hide-md">
         <div class="effect effect-nine grid-width6">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -561,7 +561,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm box-tab hide-md">
         <div class="effect effect-nine grid-width3">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -570,7 +570,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm box-tab hide-md">
         <div class="effect effect-nine grid-width3">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -592,7 +592,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab">
         <div class="effect effect-ten">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -601,7 +601,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-ten">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -610,7 +610,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width8 effect-ten">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="col8-head">grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -619,7 +619,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width6 effect-ten">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -628,7 +628,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width3 effect-ten">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -637,7 +637,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width3 effect-ten">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -659,7 +659,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -668,7 +668,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-sm-6 column-md-6 hide-xs box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -677,7 +677,7 @@ var ejemplos = {
       </div>
       <div class="column-4 hide-xs hide-sm hide-md box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -686,7 +686,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -695,7 +695,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -704,7 +704,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -713,7 +713,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect effect-eleven">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -735,7 +735,7 @@ var ejemplos = {
     <div class="custom-row">
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab">
         <div class="effect effect-twelve">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -744,7 +744,7 @@ var ejemplos = {
       </div>
       <div class="column-4 column-xs-12 column-sm-6 column-md-6 box-tab hide visible-sm visible-md">
         <div class="effect effect-twelve">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>Three column 4</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -753,7 +753,7 @@ var ejemplos = {
       </div>
       <div class="column-8 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width8 effect-twelve">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2 class="col8-head">grid column 8</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -762,7 +762,7 @@ var ejemplos = {
       </div>
       <div class="column-6 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width6 effect-twelve">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 6 grid</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -771,7 +771,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width3 effect-twelve">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -780,7 +780,7 @@ var ejemplos = {
       </div>
       <div class="column-3 hide-xs hide-sm hide-md box-tab">
         <div class="effect grid-width3 effect-twelve">
-          <img src="https://images.unsplash.com/photo-1518791841217-8f162f1e1131?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" class="img-fluid">
+          <img src="https://elcomercio.pe/resizer/i9qLk9ZuM79hEIyJ4EYaBGsyQeY=/980x528/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/NFZ7N7B7YVEINGAJOXK3TLNFH4.jpg" class="img-fluid">
           <div class="tab-text">
             <h2>column 3</h2>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
@@ -3721,131 +3721,324 @@ margin: 0 .45vw;
 
     },
     example7: {
-        html: `<a  href="avascript:void(0);">
-<div class="card">
-<div class="wrapper">
-<img src="https://ggayane.github.io/css-experiments/cards/dark_rider-cover.jpg" class="cover-image" />
-</div>
-<img src="https://ggayane.github.io/css-experiments/cards/dark_rider-title.png" class="title" />
-<img src="https://ggayane.github.io/css-experiments/cards/dark_rider-character.webp" class="character" />
-</div>
-</a>
+        html: `<body>
+    <header>
+        <h2 class="logo">Logo</h2>
+        <nav class="navigation">
+            <a href="../Login/index.html">Volver</a>
+            
+        </nav>
+    </header>
+    <div class="container">
+        <h1>Nuestros productos</h1>
+        <div class="row">
+            
+                <div class="card">
+                    <div class="wrapper">
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1McApy_D5Dy55uwMJE9HXzGMYEqCYecuKA&usqp=CAU" class="cover-image" />
+                    </div>
+                    
+                    <img src="./img/images-removebg-preview.png" class="character" />
+                    <div class="title"><h2>Lampara 1</h2></div>
+                    <button class="buy-button">Comprar</button>
+                </div>
+            
+                <div class="card">
+                    <div class="wrapper">
+                        <img src="./img/images.jpg" class="cover-image" />
+                    </div>
+                   
+                    <img src="./img/images-removebg-preview (1).png" class="character" />
+                    <div class="title"><h2>Lampara 2</h2></div>
+                    <button class="buy-button">Comprar</button>
+                </div>
 
-<a  href="avascript:void(0);">
-<div class="card">
-<div class="wrapper">
-<img src="https://ggayane.github.io/css-experiments/cards/force_mage-cover.jpg" class="cover-image" />
-</div>
-<img src="https://ggayane.github.io/css-experiments/cards/force_mage-title.png" class="title" />
-<img src="https://ggayane.github.io/css-experiments/cards/force_mage-character.webp" class="character" />
-</div>
-</a>`,
-        css: `:root {
---card-height: 300px;
---card-width: calc(var(--card-height) / 1.5);
-}
+                <div class="card">
+                        <div class="wrapper">
+                            <img src="./img/images (1).jpg" class="cover-image" />
+                        </div>
+                        
+                        <img src="./img/images-removebg-preview (2).png" class="character" />
+                        <div class="title"><h2>Lampara 3</h2></div>
+                        <button class="buy-button">Comprar</button>
+                    </div>
+                
+                    <div class="card">
+                        <div class="wrapper">
+                            <img src="./img/images (2).jpg" class="cover-image" />
+                        </div>
+                      
+                        <img src="./img/images-removebg-preview (3).png" class="character" />
+                        <div class="title"><h2>Lampara 4</h2></div>
+                        <button class="buy-button">Comprar</button>
+                    </div>
+                    <div class="card">
+                        <div class="wrapper">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1McApy_D5Dy55uwMJE9HXzGMYEqCYecuKA&usqp=CAU" class="cover-image" />
+                        </div>
+                        
+                        <img src="./img/images-removebg-preview.png" class="character" />
+                        <div class="title"><h2>Lampara 5</h2></div>
+                        <button class="buy-button">Comprar</button>
+                    </div>
+                    <div class="card">
+                        <div class="wrapper">
+                            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs1McApy_D5Dy55uwMJE9HXzGMYEqCYecuKA&usqp=CAU" class="cover-image" />
+                        </div>
+                        
+                        <img src="./img/images-removebg-preview.png" class="character" />
+                        <div class="title"><h2>Lampara 6</h2></div>
+                        <button class="buy-button">Comprar</button>
+                    </div>
+                    <div class="card">
+                        <div class="wrapper">
+                            <img src="./img/images (2).jpg" class="cover-image" />
+                        </div>
+                      
+                        <img src="./img/images-removebg-preview (3).png" class="character" />
+                        <div class="title"><h2>Lampara 7</h2></div>
+                        <button class="buy-button">Comprar</button>
+                    </div>
+                </div>
+            </div>
+</body>`,
+        css: `@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
 * {
-box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
 }
+
 body {
-width: 100vw;
-height: 100vh;
-margin: 0;
-display: flex;
-justify-content: center;
-align-items: center;
-background: #191c29;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url(./img/background2.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+
 }
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  z-index: 99;
+  align-items: center;
+  background-color: rgb(0, 0, 0, 0.5);
+}
+.container h1 {
+  color:#6063a3; 
+  font-size: 4rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.816); /* Agregue una sombra de texto para mejorar la legibilidad */
+}
+
+
+.logo {
+  font-size: 2em;
+  color: aliceblue;
+  user-select: none;
+  /* esto es para que no se pueda seleccionar el texto */
+}
+
+.navigation a {
+  position: relative;
+  font-size: 1.1em;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 40px;
+}
+
+.navigation a::after {
+ 
+  content: '';
+  
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 100%;
+  height: 2px;
+  background: aliceblue;
+  border-radius: 5%;
+  transition: transform 0.4s;
+  transform: scaleX(0);
+  
+  transform-origin: left;
+}
+
+
+.navigation a:hover::after {
+  transform: scaleX(1);
+}
+
+.navigation .btnLogin-popup {
+  width: 130px;
+  height: 50px;
+  background: transparent;
+  outline: none;
+  border: 2px solid aliceblue;
+  border-radius: 6px;
+  cursor: pointer;
+
+  font-size: 1.1em;
+  color: aliceblue;
+  font-weight: 500;
+  margin-left: 40px;
+}
+
+.navigation .btnLogin-popup:hover {
+  background: white;
+  color: black;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
+  margin-top: 200px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; /* Permite que las tarjetas se envuelvan en filas */
+  width: 100%;
+  margin-bottom: 200px;
+  margin-top: 60px;
+}
+
+
+
 .card {
-width: var(--card-width);
-height: var(--card-height);
-position: relative;
-display: flex;
-justify-content: center;
-align-items: flex-end;
-padding: 0 36px;
-perspective: 2500px;
-margin: 0 50px;
+    width: 200px; 
+    height: 300px; 
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    perspective: 2500px;
+    margin: 0 10px 50px; 
 }
 
-.cover-image {
-width: 100%;
-height: 100%;
-object-fit: cover;
+
+  .cover-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .wrapper {
+    transition: all 0.5s;
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+  }
+  
+  .card:hover .wrapper {
+    transform: perspective(900px) translateY(-5%) rotateX(25deg) translateZ(0);
+    box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+    -webkit-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
+  }
+  
+  .wrapper::before,
+  .wrapper::after {
+    content: "";
+    opacity: 0;
+    width: 100%;
+    height: 80px;
+    transition: all 0.5s;
+    position: absolute;
+    left: 0;
+  }
+  .wrapper::before {
+    top: 0;
+    height: 100%;
+    background-image: linear-gradient(
+      to top,
+      transparent 1%,
+      rgba(12, 13, 19, 0.5)100%,
+      rgba(12, 13, 19) 100%
+    );
+  }
+  .wrapper::after {
+    bottom: 0;
+    opacity: 1;
+    background-image: linear-gradient(
+      to bottom,
+      transparent 1%,
+      rgba(12, 13, 19, 0.5) 100%,
+      rgba(12, 13, 19) 100%
+    );
+  }
+  
+  .card:hover .wrapper::before,
+  .wrapper::after {
+    opacity: 1;
+  }
+  
+  .card:hover .wrapper::after {
+    height: 120px;
+  }
+  .title {
+    width: 100%;
+    transition: transform 0.5s;
+  }
+  .card:hover .title {
+    transform: translate3d(0%, -20px, 300px);
+  }
+  
+  .character {
+    width: 100%;
+    opacity: 0;
+    transition: all 0.5s;
+    position: absolute;
+    z-index: -1;
+  }
+  
+  .card:hover .character {
+    opacity: 1;
+    transform: translate3d(0%, -40%, 100px);
+  }
+.buy-button {
+    position: absolute;
+    bottom: -45px;
+    background-color: #6063a3;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }
 
-.wrapper {
-transition: all 0.5s;
-position: absolute;
-width: 100%;
-z-index: -1;
+.buy-button:hover {
+    background-color: #ffffff;
+    color: #080202;
 }
 
-.card:hover .wrapper {
-transform: perspective(900px) translateY(-5%) rotateX(25deg) translateZ(0);
-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
--webkit-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
--moz-box-shadow: 2px 35px 32px -8px rgba(0, 0, 0, 0.75);
-}
 
-.wrapper::before,
-.wrapper::after {
-content: "";
-opacity: 0;
-width: 100%;
-height: 80px;
-transition: all 0.5s;
-position: absolute;
-left: 0;
-}
-.wrapper::before {
-top: 0;
-height: 100%;
-background-image: linear-gradient(
-to top,
-transparent 46%,
-rgba(12, 13, 19, 0.5) 68%,
-rgba(12, 13, 19) 97%
-);
-}
-.wrapper::after {
-bottom: 0;
-opacity: 1;
-background-image: linear-gradient(
-to bottom,
-transparent 46%,
-rgba(12, 13, 19, 0.5) 68%,
-rgba(12, 13, 19) 97%
-);
-}
-
-.card:hover .wrapper::before,
-.wrapper::after {
-opacity: 1;
-}
-
-.card:hover .wrapper::after {
-height: 120px;
-}
-.title {
-width: 100%;
-transition: transform 0.5s;
-}
-.card:hover .title {
-transform: translate3d(0%, -50px, 100px);
-}
-
-.character {
-width: 100%;
-opacity: 0;
-transition: all 0.5s;
-position: absolute;
-z-index: -1;
-}
-
-.card:hover .character {
-opacity: 1;
-transform: translate3d(0%, -30%, 100px);
+.title{
+    font-size: 0.8rem;
+    font-weight: 400;
+    margin: 3px;
+    padding: 0;
+    background-color: #747477b7;
+    box-sizing: 100px;   
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+    transition: transform 0.5s;
+    text-align: center; 
 }
 `,
     },
