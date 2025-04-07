@@ -11,10 +11,10 @@ document.addEventListener("DOMContentLoaded", function () {
         let windowHeight = window.innerHeight;
         let documentHeight = document.documentElement.scrollHeight;
 
-        let scrollPercentage = (scrollTop / (documentHeight - windowHeight)) * 155;
+        let scrollPercentage = (scrollTop / (documentHeight - windowHeight)) * 175;
 
         let timelineHeight = scrollPercentage;
-        timelineHeight -= 24;
+        timelineHeight -= 19;
         timelineLine.style.height = `${timelineHeight}%`;
      
 

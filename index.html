@@ -12,7 +12,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;600&family=Quicksand:wght@400;700&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-
+    <script
+    src="https://unpkg.com/@dotlottie/player-component@2.7.12/dist/dotlottie-player.mjs"
+    type="module"
+  ></script>
     <script defer src="scripts.js"></script>
     <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
 
@@ -33,7 +36,7 @@
         <div class="home-content">
             <h1>Hola, soy<span> Santiago</span></h1>
             <h3 class="text-animation">Me especializo en <span> </span></h3>
-            <p>Estudiante avanzado de Ingeniería Industrial con experiencia en desarrollo web y análisis de datos. Manejo de herramientas como JavaScript, Python, SQL y Power BI. Con habilidades en automatización, resolución de problemas y optimización de procesos. Me destaco por mi capacidad de trabajo en equipo y pensamiento analítico.</p>
+            <p>Estudiante avanzado de Ingeniería Industrial con experiencia en desarrollo web y análisis de datos. <br>Manejo de herramientas como JavaScript, Python, SQL y Power BI. Con habilidades en automatización, resolución de problemas y optimización de procesos. Me destaco por mi capacidad de trabajo en equipo y pensamiento analítico.</p>
             
             <div class="social-icons">
                 <a href="https://www.linkedin.com/in/santiago-morandi1/" target="_blank" data-aos="zoom-in" data-aos-delay="200"><i class='bx bxl-linkedin-square'></i></a>
@@ -49,9 +52,19 @@
         <!-- Imagen con formas detrás -->
         <div class="home-img">
             <div class="image-wrapper">
-                <img src="./img1.png" alt="Santiago">
-                <div class="shape-1"></div>
+
+                <dotlottie-player
+                src="https://lottie.host/496de4d5-b444-4b7e-9958-1723a0ea7099/mmaEZiiCtb.lottie"
+                background="transparent"
+                speed="1"
+                style="width: 300px; height: 300px"
+                loop
+                autoplay
+              ></dotlottie-player>
+              
+              <div class="shape-1"></div>
                 <div class="shape-2"></div>
+                  
             </div>
         </div>
     </section>
