@@ -1,32 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
-    AOS.init({
-        duration: 1200,
-    });
-
-    const timelineItems = document.querySelectorAll(".timeline-item");
-    const timelineLine = document.querySelector(".scroll-line");
-
-    window.addEventListener("scroll", function () {
-        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        let windowHeight = window.innerHeight;
-        let documentHeight = document.documentElement.scrollHeight;
-
-        let scrollPercentage = (scrollTop / (documentHeight - windowHeight)) * 175;
-
-        let timelineHeight = scrollPercentage;
-        timelineHeight -= 19;
-        timelineLine.style.height = `${timelineHeight}%`;
-     
-
-        timelineItems.forEach(item => {
-            let itemPosition = item.getBoundingClientRect().top + scrollTop;
-            if (scrollTop > itemPosition - windowHeight + 100) {
-                item.classList.add("aos-animate");
-            } else {
-                item.classList.remove("aos-animate");
-            }
-        });
-    });
+    if (typeof AOS !== "undefined") {
+        AOS.init({ duration: 1200 });
+    }
 });
 
 var ejemplos = {
@@ -4623,14 +4598,15 @@ headers.forEach(function (header) {
         // Cargar el ejemplo seleccionado
         var selectedExample = this.getAttribute('data-example');
         cargarEjemplo(ejemplos[selectedExample]);
+        document.querySelector('.result-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
 });
 
 // Función para cargar y mostrar el ejemplo
 function cargarEjemplo(ejemplo) {
     var html = ejemplo.html;
-    var css = `<style>${ejemplo.css}</style>`;
-    var js = `<script>${ejemplo.js}<\/script>`;
+    var css = `<style>${ejemplo.css || ''}</style>`;
+    var js = `<script>${ejemplo.js || ''}<\/script>`;
     var iframe = document.getElementById('output');
     iframe.srcdoc = html + css + js;
 
